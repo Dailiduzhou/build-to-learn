@@ -1,5 +1,7 @@
 # build-to-learn
 
+English | [简体中文](./README.zh-CN.md)
+
 An agent skill that turns *"I want to learn a package, language feature, core concept, or port a reference codebase"* into a **progressive, hands-on, verifiable coding project** where the learner writes the core code stage by stage.
 
 ## Install
